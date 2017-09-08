@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='goo.gl/fZUMjt' target='_blank'><img src='https://2.bp.blogspot.com/-PC13gXUYyM4/Wa_9VoahG9I/AAAAAAAAAT0/zkNI41wGHas81bWbJGaWSf-WPLmPaLvBQCLcBGAs/s640/banner.jpg' width='500px'/><br/>13 CELADON CELADON CELADON CELADON </a>. Liên hệ: 0917590590 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='goo.gl/fZUMjt' target='_blank'><img src='https://2.bp.blogspot.com/-PC13gXUYyM4/Wa_9VoahG9I/AAAAAAAAAT0/zkNI41wGHas81bWbJGaWSf-WPLmPaLvBQCLcBGAs/s640/banner.jpg' width='500px'/><br/>CELADON CELADON CELADON CELADON </a>. Liên hệ: 0917590590 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
